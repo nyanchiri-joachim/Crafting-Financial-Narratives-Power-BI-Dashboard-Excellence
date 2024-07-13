@@ -5,6 +5,9 @@ Exploring Financial Insights:
 
 Delve into month-wise sales trends and patterns using visually compelling charts and graphs, providing a deep understanding of sales dynamics over time.
 
+### Click the link to view the interactive dashboard: 
+# https://app.powerbi.com/view?r=eyJrIjoiMTBkNjUyODItYTZjZS00Y2I1LWFjZmYtODljZGNlNjU2ZmM5IiwidCI6ImE5NDc1NzIwLWNlMTItNDllYy05Yzk0LWJhYTg0NjUxZGJhOCJ9
+
 Comprehensive Data Insights:
 
 Navigate through detailed data components that unravel the complexities of financial metrics, offering comprehensive insights into business operations.
